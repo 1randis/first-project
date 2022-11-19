@@ -1,4 +1,8 @@
 body {
     margin: 0;
-    background-color: #fff;
+}
+
+.header {
+    height: 100px;
+    background-color: #000;
 }
